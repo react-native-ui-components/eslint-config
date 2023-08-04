@@ -1,6 +1,6 @@
 {
 	"name": "@react-native-ui-components/eslint-config",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"main": "index.json",
 	"repository": "git@github.com:react-native-ui-components/eslint-config.git",
 	"author": "Morgan Barrett <morganbarrett@icloud.com>",
