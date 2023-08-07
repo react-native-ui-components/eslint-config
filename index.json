@@ -3,12 +3,9 @@
 	"extends": [
 		"eslint:recommended",
 		"plugin:react/recommended",
+		"@react-native-community",
 		"prettier"
 	],
-	"parserOptions": {
-		"ecmaVersion": 2020,
-		"sourceType": "module"
-	},
 	"rules": {
 		"react/react-in-jsx-scope": "off"
 	}
